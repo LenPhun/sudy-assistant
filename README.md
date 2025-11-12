@@ -1,4 +1,7 @@
 # Trợ Lý Học Tập - Study Assistant
+<p align="center">
+  <img src="z7215937348479_9d957a1fbd8ef528f8aed30d17fa9380.jpg" alt="Smart Skincare Illustration" width="800" height="400" />
+</p>
 
 Ứng dụng web trợ lý học tập thông minh giúp tạo lịch ôn thi hợp lý dựa trên số ngày còn lại và thời gian biểu cá nhân.
 
